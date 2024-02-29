@@ -1,0 +1,11 @@
+.btn-img {
+    width: 100px; 
+    height: 100px; 
+  }
+
+.btn-arrow:hover .btn-img {
+    transform: translateX(50px); /* Adjust the amount of movement */
+    transition: transform 0.4s ease-in-out; /* Adjust the duration and timing function */
+  }
+  
+  

@@ -1,0 +1,20 @@
+
+  .center-text {
+    text-align: center;
+  }
+  
+  .square-card {
+    position: relative;
+  }
+  
+  .square-card img {
+    transition: opacity 0.3s ease;
+  }
+  
+  .square-card:hover img {
+    opacity: 0;
+  }
+  .square-card:hover {
+    background-color: black;
+  }
+  
